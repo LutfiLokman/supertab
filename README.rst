@@ -1,3 +1,5 @@
+Fork of supertab that fixes the Invalid argument: 'pumvisible() ? "\<C-P>" : "\<S-Tab>' issue
+
 .. Copyright (c) 2012 - 2020, Eric Van Dewoestine
    All rights reserved.
 
